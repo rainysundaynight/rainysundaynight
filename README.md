@@ -23,4 +23,5 @@ I am a Trainee DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shelovesuastra)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelovesuastra)](https://github.com/anuraghazra/github-readme-stats)
 
