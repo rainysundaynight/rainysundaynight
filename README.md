@@ -7,7 +7,7 @@
 ### :woman_technologist: About Me :
 Traine DevOps from Minsk, Belarus.
 
-### :hammer_and_wrench: Languages and Tools 
+### :hammer_and_wrench: Languages and Tools: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
