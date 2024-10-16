@@ -25,6 +25,8 @@ Trainee DevOps from Minsk, Belarus.
   <h3>CI/CD</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <h3>GitOps</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="argoCD" alt="argoCD" width="40" height="40"/>&nbsp;
   <h3>Containerization</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="k8s" alt="k8s" width="40" height="40"/>&nbsp;
@@ -35,6 +37,7 @@ Trainee DevOps from Minsk, Belarus.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <h3>Cloud Services</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://yastatic.net/s3/cloud/www/static/freeze/assets/img/logo.54a174a9.svg" title="Yandex Cloud" alt="Yandex Cloud" width="40" height="40"/>&nbsp;
 </div>
 
 ---
