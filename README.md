@@ -5,7 +5,7 @@
 ---
 
 ### :woman_technologist: About Me :
-Trainee DevOps from Minsk, Belarus.
+DevOps Engineer from Minsk, Belarus.
 
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
