@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif" width="800" height="300"/>
+  <img src="https://tenor.com/ru/view/lain-typing-gif-22208370" width="800" height="300"/>
 </div>
 
 <p align="center">
