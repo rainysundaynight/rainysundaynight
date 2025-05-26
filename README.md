@@ -2,8 +2,6 @@
   <img src="https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif" width="800" height="300"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm a DevOps Engineer</h1>
-
 <p align="center">
   DevOps-Engineer • Open Source Contributor • Infrastructure lover <br/>
   Based in Minsk, Belarus 🇧🇾
@@ -47,7 +45,7 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://t.me/shelovesuastra" target="_blank">
+  <a href="https://t.me/owewewewewe" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
