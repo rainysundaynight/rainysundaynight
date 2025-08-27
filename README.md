@@ -4,7 +4,7 @@
 
 <p align="center">
   DevOps-Engineer • Open Source Contributor • Infrastructure lover <br/>
-  Based in Minsk, Belarus 🇧🇾
+  99% YAML, 1% human :)
 </p>
 
 ---
