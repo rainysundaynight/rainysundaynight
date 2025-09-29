@@ -7,9 +7,6 @@
   99% YAML, 1% human :)
 </p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/track/2QuSgu0ez3BDwVvRPnyNHA?si=4f1610a312934ffb" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-
 ---
 
 ## 🚀 Tech Stack
