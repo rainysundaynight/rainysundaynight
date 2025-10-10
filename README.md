@@ -36,9 +36,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shelovesuastra&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rainysundaynight&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelovesuastra&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainysundaynight&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
