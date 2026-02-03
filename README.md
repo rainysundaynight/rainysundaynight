@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.steamusercontent.com/ugc/25094840453937535/C694CC0CA2E162AEBEF7451E7B1AC12C4457C707/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBzOGtpdDJjMWp2MnAzZHBtencxMGhqdm9odHhjbXVramFkbjVkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" width="600" height="300"/>
 </div>
 
 <p align="center">
